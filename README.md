@@ -1,2 +1,3 @@
 # Physics434Thalya
-second try
+Thalya Paleologu
+Physics 434 Autumn 2019
